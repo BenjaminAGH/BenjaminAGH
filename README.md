@@ -13,6 +13,12 @@
 
 
 
-<img align="left" height="300" src="https://github.com/BenjaminAGH/BenjaminAGH/blob/main/DSC_0382.JPG"/>
+<img align="left" height="200" src="https://github.com/BenjaminAGH/BenjaminAGH/blob/main/DSC_0382.JPG"/>
 <h3><b>SOBRE MÍ</b></h3>
-Soy Benjamín Guajardo, estudiante de Ingeniería de Ejecución en Computación e Informática
+
+<body>
+    <p align="justify">
+        Mi nombre es Benjamín Guajardo y soy estudiante de Ingeniería de Ejecución en Computación e Informática. Poseo conocimientos en programación con stack MERN, así como en C++ y Python. Además, soy un apasionado de la ciberseguridad, con experiencia en redes, pentesting, Linux, y la configuración de servidores.
+    </p>
+</body>
+
