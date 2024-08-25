@@ -18,7 +18,7 @@
 
 <body>
     <p align="justify">
-        Mi nombre es Benjamín Guajardo y soy estudiante de Ingeniería de Ejecución en Computación e Informática. Poseo conocimientos en programación con stack MERN, así como en C++ y Python. Además, soy un apasionado de la ciberseguridad, con experiencia en redes, pentesting, Linux, y la configuración de servidores.
+        Mi nombre es Benjamín Guajardo y soy estudiante de Ingeniería de Ejecución en Computación e Informática. Poseo conocimientos en programación con stack MERN, así como en C++ y Python. Además, soy un apasionado de la ciberseguridad, con experiencia en redes, pentesting, Linux, y configuración de servidores.
     </p>
 </body>
 
